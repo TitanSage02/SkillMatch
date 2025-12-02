@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "cd frontend && VITE_API_URL=\"https://api-rh.pairqr.app/api/v1\" npm install && VITE_API_URL=\"https://api-rh.pairqr.app/api/v1\" npm run build",
+  "outputDirectory": "frontend/dist",
+  "devCommand": "cd frontend && VITE_API_URL=\"https://api-rh.pairqr.app/api/v1\" npm run dev",
+  "installCommand": "cd frontend && npm install",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

@@ -1,0 +1,27 @@
+Titre du poste : Data Scientist
+
+Description de l'entreprise :
+DataCorp est un leader dans le domaine de l'analyse prédictive pour le secteur retail. Nous aidons nos clients 
+à optimiser leurs stocks et à personnaliser l'expérience client grâce à l'intelligence artificielle.
+
+Missions principales :
+- Explorer et analyser de grands volumes de données structurées et non structurées.
+- Concevoir, entraîner et évaluer des modèles de Machine Learning (prévision de ventes, segmentation client).
+- Mettre en production les modèles en collaboration avec les Data Engineers.
+- Créer des tableaux de bord de visualisation pour présenter les résultats aux parties prenantes.
+- Assurer une veille technologique sur les dernières avancées en IA.
+
+Compétences techniques requises :
+- Maîtrise du langage Python et des bibliothèques de Data Science (Pandas, NumPy, Scikit-learn).
+- Solides connaissances en SQL pour l'extraction de données.
+- Expérience avec des outils de visualisation (Matplotlib, Seaborn, ou Tableau).
+- Connaissance des frameworks de Deep Learning (TensorFlow ou PyTorch) est un plus.
+- Familiarité avec les environnements Cloud (AWS ou Azure).
+
+Soft Skills :
+- Curiosité intellectuelle et esprit analytique.
+- Capacité à vulgariser des concepts techniques complexes.
+- Anglais technique courant.
+
+Niveau d'expérience requis :
+- Junior accepté (Master 2 en Data Science, Mathématiques Appliquées ou École d'Ingénieur).

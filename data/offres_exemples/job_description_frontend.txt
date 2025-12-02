@@ -1,0 +1,26 @@
+Titre du poste : Développeur Frontend React Senior
+
+Description de l'entreprise :
+TechSolutions est une startup en pleine croissance spécialisée dans les solutions SaaS pour la gestion de projet. Nous cherchons à renforcer notre équipe technique pour accélérer le développement de notre nouvelle interface utilisateur.
+
+Missions principales :
+- Concevoir et développer de nouvelles fonctionnalités front-end en utilisant React.js et TypeScript.
+- Optimiser les performances de l'application pour assurer une expérience utilisateur fluide.
+- Collaborer étroitement avec les équipes UX/UI pour intégrer des maquettes fidèles.
+- Participer aux revues de code et maintenir un haut standard de qualité logicielle.
+- Migrer progressivement certaines parties de l'application vers Next.js.
+
+Compétences techniques requises :
+- Maîtrise approfondie de JavaScript (ES6+) et TypeScript.
+- Expertise sur React.js (Hooks, Context API) et son écosystème (Redux ou Zustand).
+- Bonne connaissance de Tailwind CSS pour le styling.
+- Expérience avec les outils de build modernes (Vite, Webpack).
+- Sensibilité aux tests unitaires et d'intégration (Jest, React Testing Library).
+
+Soft Skills :
+- Esprit d'équipe et bonne communication.
+- Capacité à résoudre des problèmes complexes.
+- Autonomie et rigueur.
+
+Niveau d'expérience requis :
+- Minimum 5 ans d'expérience en développement web front-end.

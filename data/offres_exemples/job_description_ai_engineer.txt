@@ -1,0 +1,25 @@
+Titre du poste : AI Engineer
+
+Description de l'entreprise :
+InnovAI Solutions est une startup en pleine croissance spécialisée dans le développement de solutions d'intelligence artificielle pour l'industrie 4.0. Nous concevons des systèmes autonomes et des assistants intelligents pour optimiser les processus de production.
+
+Missions principales :
+- Concevoir et développer des architectures de modèles d'IA robustes et scalables (LLM, Vision par ordinateur).
+- Intégrer des modèles d'IA dans des applications existantes via des API RESTful.
+- Optimiser les pipelines de données et d'entraînement pour assurer la performance et la fiabilité.
+- Assurer la veille technologique et proposer des solutions innovantes basées sur l'état de l'art.
+
+Compétences techniques requises :
+- Maîtrise de Python et de frameworks de Deep Learning (PyTorch ou TensorFlow).
+- Expérience avec les architectures Transformers et les LLMs (Hugging Face, LangChain).
+- Solides compétences en développement logiciel (Git, Docker, CI/CD).
+- Expérience en bases de données vectorielles est un plus.
+
+Soft Skills :
+- Capacité à résoudre des problèmes complexes.
+- Travail en équipe et bonne communication.
+- Autonomie et proactivité.
+
+Niveau d'expérience requis :
+- +1an d'expérience en développement logiciel et/ou Machine Learning.
+- Licence en Informatique

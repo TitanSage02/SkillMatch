@@ -1,0 +1,25 @@
+# Backend
+backend/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Data
+data/
+
+# Documentation
+docs/
+
+# Git
+.git/
+.github/
+
+# Other
+*.md
+LICENSE
+.env
+.env.example

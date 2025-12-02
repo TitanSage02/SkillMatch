@@ -1,0 +1,26 @@
+Titre du poste : Développeur Backend Python (FastAPI)
+
+Description de l'entreprise :
+SecureAPI développe des solutions d'authentification et de sécurité pour les applications bancaires. La robustesse et la performance sont au cœur de nos préoccupations.
+
+Missions principales :
+- Développer et maintenir des API RESTful performantes et sécurisées.
+- Concevoir l'architecture backend et les schémas de base de données (PostgreSQL).
+- Implémenter des tests automatisés (unitaires, intégration) pour garantir la fiabilité.
+- Conteneuriser les applications avec Docker et gérer les déploiements CI/CD.
+- Documenter les API (OpenAPI/Swagger) pour les développeurs tiers.
+
+Compétences techniques requises :
+- Expertise en Python 3.10+.
+- Maîtrise du framework FastAPI (ou expérience solide avec Flask/Django).
+- Solides connaissances en bases de données relationnelles (PostgreSQL) et ORM (SQLAlchemy).
+- Expérience avec Docker et les outils de CI/CD (GitLab CI, GitHub Actions).
+- Connaissance des bonnes pratiques de sécurité (OWASP, OAuth2, JWT).
+
+Soft Skills :
+- Rigueur et souci du détail.
+- Proactivité dans la proposition de solutions techniques.
+- Capacité à travailler dans un environnement Agile.
+
+Niveau d'expérience requis :
+- 3 ans minimum d'expérience en développement backend.
