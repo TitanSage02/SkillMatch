@@ -11,7 +11,7 @@ export const Header = () => {
               <Brain className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">SkillMatch</h1>
+              <h1 className="text-xl font-bold text-foreground">Skill-Match</h1>
               <p className="text-xs text-muted-foreground">Analyse intelligente de CV</p>
             </div>
           </div>
