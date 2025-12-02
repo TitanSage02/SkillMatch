@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI(
     title=settings.PROJECT_NAME,
     version=settings.VERSION,
-    description="API pour l'analyse automatisée de candidatures par SkillMatch, l'Agent IA spécialisé en Ressources Humaines.",
+    description="API pour l'analyse automatisée de candidatures par Skill-Match, l'Agent IA spécialisé en Ressources Humaines.",
 )
 
 # Log des origines autorisées au démarrage
@@ -30,7 +30,7 @@ app.include_router(api_router, prefix=settings.API_V1_STR)
 
 @app.get("/")
 async def root():
-    return {"message": "Bienvenue sur l'API de SkillMatch. Documentation sur /docs"}
+    return {"message": "Bienvenue sur l'API de Skill-Match. Documentation sur /docs"}
 
 @app.get("/health")
 async def health_check():

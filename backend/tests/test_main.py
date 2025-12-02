@@ -6,7 +6,7 @@ client = TestClient(app)
 def test_read_main():
     response = client.get("/")
     assert response.status_code == 200
-    assert response.json() == {"message": "Bienvenue sur l'API de SkillMatch. Documentation sur /docs"}
+    assert response.json() == {"message": "Bienvenue sur l'API de Skill-Match. Documentation sur /docs"}
 
 def test_health_check():
     response = client.get("/health")

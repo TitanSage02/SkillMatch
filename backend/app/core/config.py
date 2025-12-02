@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Settings:
-    PROJECT_NAME: str = "SkillMatch"
+    PROJECT_NAME: str = "Skill-Match"
     VERSION: str = "1.0.0"
     API_V1_STR: str = "/api/v1"
     
@@ -21,8 +21,8 @@ class Settings:
         origin.strip() for origin in _origins_str.split(",") if origin.strip()
     ] or [
         "http://localhost:8080",
-        "https://skillmatch.vercel.app",
-        "https://skillmatch.vercel.app/"
+        "https://skill-match-iota.vercel.app",
+        "https://skill-match-iota.vercel.app/"
     ]
     
     # Parsing
