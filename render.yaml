@@ -2,8 +2,7 @@ services:
   - type: web
     name: rh-ai-agent-backend
     env: docker
-    dockerContext: ./backend
-    dockerfilePath: Dockerfile
+    rootDir: backend
     envVars:
       - key: MISTRAL_API_KEY
         sync: false
