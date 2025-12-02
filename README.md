@@ -1,12 +1,12 @@
-# 🤖 SkillMatch - Système d'analyse automatisée de candidatures
+# 🤖 Skill-Match - Système d'analyse automatisée de candidatures
 
-[![Deploy](https://img.shields.io/badge/demo-live-success)](https://skillmatch.vercel.app)
+[![Deploy](https://img.shields.io/badge/demo-live-success)](https://skill-match-iota.vercel.app)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> SkillMatch est un agent IA intelligent pour automatiser l'analyse de CV, la classification des métiers et l'évaluation de la correspondance candidat-offre d'emploi.
+> Skill-Match est un agent IA intelligent pour automatiser l'analyse de CV, la classification des métiers et l'évaluation de la correspondance candidat-offre d'emploi.
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 🎬 Démo
 
-🔗 **Application en ligne** : [https://skillmatch.vercel.app/](https://skillmatch.vercel.app/)
+🔗 **Application en ligne** : [https://skill-match-iota.vercel.app/](https://skill-match-iota.vercel.app/)
 
 ### Captures d'écran
 
